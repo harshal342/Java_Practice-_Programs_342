@@ -1,4 +1,4 @@
-package ArithmaticProgram_4;
+package Program_4;
 
 import java.util.Scanner;
 

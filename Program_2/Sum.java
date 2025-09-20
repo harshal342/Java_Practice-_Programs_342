@@ -1,4 +1,4 @@
-package SumProgram_2;
+package Program_2;
 
 import java.util.Scanner;
 

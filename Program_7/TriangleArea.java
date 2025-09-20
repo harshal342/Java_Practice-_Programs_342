@@ -1,4 +1,4 @@
-package TriangleProgram_7;
+package Program_7;
 
 import java.util.Scanner;
 

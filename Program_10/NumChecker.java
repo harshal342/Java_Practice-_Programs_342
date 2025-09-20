@@ -1,4 +1,4 @@
-package NumCheckProgram_10;
+package Program_10;
 
 import java.util.Scanner;
 

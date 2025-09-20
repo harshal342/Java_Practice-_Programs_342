@@ -1,4 +1,4 @@
-package SimpleInterestProgram_8;
+package Program_8;
 
 import java.util.Scanner;
 

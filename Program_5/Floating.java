@@ -1,4 +1,4 @@
-package FloatingProgram_5;
+package Program_5;
 
 import java.util.Scanner;
 

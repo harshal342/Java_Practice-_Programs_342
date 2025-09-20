@@ -1,4 +1,4 @@
-package SwapProgram_3;
+package Program_3;
 
 import java.util.Scanner;
 
@@ -7,13 +7,13 @@ public class Swap {
         Scanner input = new Scanner(System.in);
         System.out.println("Welcome to swap to digits\n");
         System.out.print("Enter value of A: ");
-        int a = input.nextInt();
+        int a = input.nextInt(); //5
         System.out.print("Enter value of B: ");
-        int b = input.nextInt();
+        int b = input.nextInt(); // 10
 
-        int c = a;
-        a = b;
-        b = c;
+        int c = a; //5
+        a = b; //10
+        b = c; //5
         System.out.println("Your value of A is: " + a);
         System.out.println("Your value of B is: " + b);
     }

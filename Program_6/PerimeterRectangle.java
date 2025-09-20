@@ -1,4 +1,4 @@
-package PerimeterProgram_6;
+package Program_6;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package EvenOddProgram_11;
+package Program_11;
 
 import java.util.Scanner;
 

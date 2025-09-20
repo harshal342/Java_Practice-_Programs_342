@@ -1,4 +1,4 @@
-package CompundInterestProgram_9;
+package Program_9;
 
 import java.util.Scanner;
 
